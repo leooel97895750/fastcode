@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.9956bef4.css",
-    "main.js": "/static/js/main.877e1444.js",
+    "main.css": "/static/css/main.19e066a4.css",
+    "main.js": "/static/js/main.6ba3a390.js",
     "static/js/787.2326ca5b.chunk.js": "/static/js/787.2326ca5b.chunk.js",
+    "static/media/fastcode_logo.png": "/static/media/fastcode_logo.62c2ae2c90baeed9cdf6.png",
     "index.html": "/index.html",
-    "main.9956bef4.css.map": "/static/css/main.9956bef4.css.map",
-    "main.877e1444.js.map": "/static/js/main.877e1444.js.map",
+    "main.19e066a4.css.map": "/static/css/main.19e066a4.css.map",
+    "main.6ba3a390.js.map": "/static/js/main.6ba3a390.js.map",
     "787.2326ca5b.chunk.js.map": "/static/js/787.2326ca5b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9956bef4.css",
-    "static/js/main.877e1444.js"
+    "static/css/main.19e066a4.css",
+    "static/js/main.6ba3a390.js"
   ]
 }

@@ -1,5 +1,9 @@
 import React from 'react';
 import '../css/App.css';
+import NavBar from './NavBar';
+import TypeScreen from './TypeScreen';
+import Login from './Login';
+import RankList from './RankList';
 
 class App extends React.Component{
     constructor(props){
@@ -11,7 +15,10 @@ class App extends React.Component{
     render(){
         return(
             <div>
-                <span>FastCode!!!</span>
+                <NavBar></NavBar>
+                <TypeScreen></TypeScreen>
+                <Login></Login>
+                <RankList></RankList>
             </div>
         );
     }

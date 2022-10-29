@@ -1,0 +1,10 @@
+.typeScreen {
+    background-color: #151515;
+    margin: 5px;
+    width: calc(58% - 10px);
+    height: calc(100% - 10px);
+    position: absolute;
+    top: 0px;
+    left: calc(17% - 5px);
+    overflow: hidden;
+}

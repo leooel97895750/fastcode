@@ -1,0 +1,10 @@
+.rankList {
+    background-color: #151515;
+    margin: 5px;
+    width: 25%;
+    height: calc(95% - 10px);
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    overflow: hidden;
+}

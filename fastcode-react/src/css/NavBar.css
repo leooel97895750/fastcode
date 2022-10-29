@@ -1,0 +1,10 @@
+.navBar {
+    background-color: #151515;
+    margin: 5px;
+    width: calc(17% - 10px);
+    height: calc(100% - 10px);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+}
