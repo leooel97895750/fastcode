@@ -7,4 +7,5 @@
     top: 0px;
     left: calc(17% - 5px);
     overflow: hidden;
+    outline: none;
 }

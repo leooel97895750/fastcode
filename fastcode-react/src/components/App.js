@@ -15,10 +15,10 @@ class App extends React.Component{
     render(){
         return(
             <div>
-                <NavBar></NavBar>
-                <TypeScreen></TypeScreen>
-                <Login></Login>
-                <RankList></RankList>
+                <NavBar/>
+                <TypeScreen/>
+                <Login/>
+                <RankList/>
             </div>
         );
     }
